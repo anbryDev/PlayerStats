@@ -6,3 +6,5 @@ return all the players (using headtohead.json on file system).
 return a single player matching id, 404 code if no player is matching
 # DELETE /players/id
 delete a player with id, 404 code if no player is matching
+# Important
+File path for json file : C:\temp\data\headtohead.json
